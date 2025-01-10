@@ -70,22 +70,22 @@ Utilizei os prompts dentro do ChatGPT para criar um podcast de maneira automatiz
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/account"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspJosé Roberto Fabbi Junior<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/ZeRoFabbiJr?tab=repositories">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="www.linkedin.com/in/junior-fabbi-48972a24">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/juninhofabbi/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -95,4 +95,4 @@ Utilizei os prompts dentro do ChatGPT para criar um podcast de maneira automatiz
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Ze.Ro]
