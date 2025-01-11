@@ -70,7 +70,7 @@ Utilizei os prompts dentro do ChatGPT para criar um podcast de maneira automatiz
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/account"
+      src="https://avatars.githubusercontent.com/u/181420979?s=400&u=c644d997be090af9ff10291782b7c621dfd2f50b&v=4"
     />
     <p>&nbsp&nbsp&nbspJosé Roberto Fabbi Junior<br>
     &nbsp&nbsp&nbsp
