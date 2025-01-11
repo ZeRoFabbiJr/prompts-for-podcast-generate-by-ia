@@ -80,7 +80,7 @@ Utilizei os prompts dentro do ChatGPT para criar um podcast de maneira automatiz
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/junior-fabbi-48972a24">
+        href="http://www.linkedin.com/in/junior-fabbi-48972a24">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
